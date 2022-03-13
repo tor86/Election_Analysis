@@ -1,6 +1,5 @@
-Counties in the election
-----------------
+Counties in the Electin
+-----------
 Arapahoe
 Denver
 Jefferson
-

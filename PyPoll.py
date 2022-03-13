@@ -1,7 +1,6 @@
 #Add our dependencies
 import csv
 import os
-
 #Assign a variable to load a file from a path
 file_to_load = os.path.join("Resources", "election_results.csv")
 #Assign a variable to save the file to a path
@@ -80,4 +79,3 @@ winning_candidate_summary = (
         f"-------------------------\n")
 
 print(winning_candidate_summary)
-
